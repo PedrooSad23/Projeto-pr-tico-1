@@ -1,3 +1,7 @@
 body {
     background-color: #cbdb3b;
 }
+
+.pica li :hover {
+    color: gray;
+}
