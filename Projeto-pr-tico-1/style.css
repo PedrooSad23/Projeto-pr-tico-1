@@ -3,7 +3,7 @@ body {
 }
 
 .sumario li :hover {
-    color: gray;
+    color: black;
 }
 
 .p {
@@ -18,9 +18,29 @@ body {
 .b {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: bold; /* negrito */
+  font-weight: bold;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
 }
 
+button {
+    border: solid black;
+    background-color: #cbdb3b;
+    padding: 12px 24px;
+    border-radius: 15px;
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #e7e765;
+}
+
+button:active {
+    background-color: pink;
+}
+
+button:active ~ body {
+    background-color: pink;
+}
