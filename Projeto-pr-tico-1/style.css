@@ -41,6 +41,3 @@ button:active {
     background-color: pink;
 }
 
-button:active ~ body {
-    background-color: pink;
-}
