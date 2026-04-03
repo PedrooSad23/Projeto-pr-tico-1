@@ -10,6 +10,16 @@ body {
 color: #a83275;
 }
 
+.sumario {
+    list-style: none;
+}
+
+.sumario li ::before {
+    content: "* ";
+    color: black;
+}
+
+
 .p {
     font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
