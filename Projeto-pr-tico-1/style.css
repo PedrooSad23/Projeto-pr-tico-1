@@ -1,5 +1,8 @@
 body {
     background-color: #cbdb3b;
+    border: 3px solid black;
+    margin: 0;
+    padding: 0;
 }
 
 .sumario li :hover {
