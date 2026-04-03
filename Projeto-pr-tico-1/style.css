@@ -25,8 +25,7 @@ color: #a83275;
 
 .p {
     font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -34,7 +33,6 @@ color: #a83275;
 
 .b {
   font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
   font-variation-settings:
@@ -61,7 +59,6 @@ button:active {
 #titulo{
     text-align: center;
     font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
   font-variation-settings:
