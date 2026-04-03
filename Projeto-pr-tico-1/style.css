@@ -6,6 +6,10 @@ body {
     color: black;
 }
 
+.sumario a{
+color: #a83275;
+}
+
 .p {
     font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -29,7 +33,7 @@ button {
     background-color: #cbdb3b;
     padding: 12px 24px;
     border-radius: 15px;
-    font-size: 20px;
+    font-size: 35px;
     transition: 0.3s;
 }
 
